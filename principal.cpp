@@ -1,9 +1,13 @@
 #include <iostream>
+#include "ejercicio1.cpp"
 
 using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    
+   calcMedia();
+
+
     return 0;
 }
